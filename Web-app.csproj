@@ -7,4 +7,8 @@
     <RootNamespace>Web_app</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include=".github\workflows\CI-CD.yml" />
+  </ItemGroup>
+
 </Project>

@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\jali1\source\repos\maddy00-cmd\Web-App\.github\workflows\CI-CD.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
